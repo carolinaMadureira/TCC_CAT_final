@@ -1,0 +1,82 @@
+;uf;ano;qtde
+0;Acre;2016;973
+1;Acre;2017;982
+2;Acre;2018;862
+3;Alagoas;2016;4534
+4;Alagoas;2017;4175
+5;Alagoas;2018;4131
+6;Amapá;2016;661
+7;Amapá;2017;523
+8;Amapá;2018;591
+9;Amazonas;2016;7293
+10;Amazonas;2017;6974
+11;Amazonas;2018;7051
+12;Bahia;2016;17132
+13;Bahia;2017;16926
+14;Bahia;2018;16937
+15;Ceará;2016;11876
+16;Ceará;2017;11099
+17;Ceará;2018;11401
+18;Distrito Federal;2016;7535
+19;Distrito Federal;2017;7140
+20;Distrito Federal;2018;8058
+21;Espírito Santo;2016;11844
+22;Espírito Santo;2017;11535
+23;Espírito Santo;2018;12099
+24;Goiás;2016;15395
+25;Goiás;2017;15355
+26;Goiás;2018;16076
+27;Maranhão;2016;4472
+28;Maranhão;2017;3993
+29;Maranhão;2018;3661
+30;Mato Grosso;2016;11944
+31;Mato Grosso;2017;12149
+32;Mato Grosso;2018;12349
+33;Mato Grosso do Sul;2016;9649
+34;Mato Grosso do Sul;2017;9743
+35;Mato Grosso do Sul;2018;10171
+36;Minas Gerais;2016;59334
+37;Minas Gerais;2017;56819
+38;Minas Gerais;2018;59553
+39;Paraná;2016;43549
+40;Paraná;2017;42223
+41;Paraná;2018;45119
+42;Paraíba;2016;4155
+43;Paraíba;2017;4078
+44;Paraíba;2018;3976
+45;Pará;2016;9659
+46;Pará;2017;9497
+47;Pará;2018;9831
+48;Pernambuco;2016;15831
+49;Pernambuco;2017;14892
+50;Pernambuco;2018;14789
+51;Piauí;2016;3954
+52;Piauí;2017;3412
+53;Piauí;2018;3411
+54;Rio Grande do Norte;2016;5624
+55;Rio Grande do Norte;2017;4916
+56;Rio Grande do Norte;2018;5167
+57;Rio Grande do Sul;2016;50586
+58;Rio Grande do Sul;2017;47152
+59;Rio Grande do Sul;2018;48559
+60;Rio de Janeiro;2016;42192
+61;Rio de Janeiro;2017;37863
+62;Rio de Janeiro;2018;37526
+63;Rondônia;2016;4605
+64;Rondônia;2017;4225
+65;Rondônia;2018;4517
+66;Roraima;2016;759
+67;Roraima;2017;885
+68;Roraima;2018;943
+69;Santa Catarina;2016;37058
+70;Santa Catarina;2017;36804
+71;Santa Catarina;2018;38803
+72;Sergipe;2016;2728
+73;Sergipe;2017;2591
+74;Sergipe;2018;2407
+75;São Paulo;2016;200759
+76;São Paulo;2017;190189
+77;São Paulo;2018;197330
+78;Tocantins;2016;1525
+79;Tocantins;2017;1486
+80;Tocantins;2018;1633

@@ -1,0 +1,26 @@
+cbo;cid;cnae;obito;parte;sexo;tipo_acidente;uf_emp;idade;anoMes
+521105;S06;1122;Não;Cabeca, Nic;Masculino;Trajeto;Amazonas;29.0;201905
+621005;S93;141;Não;Perna (Entre O Torno;Masculino;Típico;Mato Grosso do Sul;19.0;201912
+411005;S067;6619;Não;Cabeca, Nic;Masculino;Típico;Maranhão;26.0;201912
+331205;S826;8512;Não;Articulacao do Torno;Feminino;Típico;Minas Gerais;42.0;201912
+782510;S420;4930;Não;Ombro;Masculino;Típico;Minas Gerais;41.0;201912
+724315;S625;3314;Não;Dedo;Masculino;Típico;Minas Gerais;47.0;201912
+783225;S202;4635;Não;Quadris (Inclusive P;Masculino;Típico;Minas Gerais;45.0;201912
+521140;S424;4711;Não;Braco (Entre O Punho;Feminino;Trajeto;Minas Gerais;24.0;201912
+519110;S431;4782;Não;Tronco, Parte Multip;Masculino;Típico;Minas Gerais;21.0;201912
+421105;F431;5310;Não;Sistema Nervoso;Feminino;Trajeto;Pará;30.0;201910
+621005;S626;161;Não;Membros Inferiores,;Masculino;Típico;Paraná;40.0;201912
+351605;S834;8211;Não;Joelho;Masculino;Típico;Pernambuco;24.0;201912
+782510;S934;3811;Não;Articulacao do Torno;Masculino;Típico;Pernambuco;46.0;201912
+514115;S52;9491;Não;Membros Inferiores,;Feminino;Típico;Pernambuco;49.0;201912
+848310;S610;1091;Não;Sistema Musculo-Esqu;Masculino;Típico;Piauí;33.0;201908
+954120;S628;2513;Não;Artelho;Masculino;Típico;Rio Grande do Sul;44.0;201912
+724315;S662;1041;Não;Membros Superiores,;Masculino;Típico;Rio Grande do Sul;41.0;201912
+821445;S681;3832;Não;Membros Superiores,;Masculino;Típico;Rio Grande do Sul;48.0;201912
+621005;S610;150;Não;Dedo;Masculino;Típico;Rio Grande do Sul;26.0;201912
+414105;T149;1011;Não;Perna (Do Tornozelo,;Masculino;Típico;Santa Catarina;32.0;201912
+784205;S626;2790;Não;Dedo;Masculino;Típico;São Paulo;35.0;201912
+521110;S924;4744;Não;Pe (Exceto Artelhos);Feminino;Típico;São Paulo;41.0;201912
+223505;S923;8610;Não;Pe (Exceto Artelhos);Feminino;Típico;São Paulo;39.0;201912
+782510;S630;4729;Não;Punho;Masculino;Típico;Goiás;57.0;201912
+141510;M51;5611;Não;Dorso (Inclusive Mus;Masculino;Típico;São Paulo;32.0;201912

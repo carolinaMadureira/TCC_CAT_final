@@ -1,0 +1,817 @@
+;uf;ano;qtde
+0;Acre;1988;147
+1;Acre;1989;162
+2;Acre;1990;98
+3;Acre;1991;117
+4;Acre;1992;70
+5;Acre;1993;30
+6;Acre;1994;0
+7;Acre;1995;111
+8;Acre;1996;123
+9;Acre;1997;202
+10;Acre;1998;207
+11;Acre;1999;193
+12;Acre;2000;235
+13;Acre;2001;224
+14;Acre;2002;308
+15;Acre;2003;305
+16;Acre;2004;366
+17;Acre;2005;422
+18;Acre;2006;444
+19;Acre;2007;652
+20;Acre;2008;821
+21;Acre;2009;1100
+22;Acre;2010;1114
+23;Acre;2011;1171
+24;Acre;2012;1148
+25;Acre;2013;1179
+26;Acre;2014;1195
+27;Acre;2015;1015
+28;Acre;2016;973
+29;Acre;2017;982
+30;Acre;2018;862
+31;Alagoas;1988;3211
+32;Alagoas;1989;2859
+33;Alagoas;1990;2847
+34;Alagoas;1991;2235
+35;Alagoas;1992;1883
+36;Alagoas;1993;1158
+37;Alagoas;1994;1217
+38;Alagoas;1995;2282
+39;Alagoas;1996;2747
+40;Alagoas;1997;3409
+41;Alagoas;1998;3264
+42;Alagoas;1999;2705
+43;Alagoas;2000;3074
+44;Alagoas;2001;2600
+45;Alagoas;2002;3040
+46;Alagoas;2003;3469
+47;Alagoas;2004;4646
+48;Alagoas;2005;4685
+49;Alagoas;2006;6189
+50;Alagoas;2007;7627
+51;Alagoas;2008;8580
+52;Alagoas;2009;9065
+53;Alagoas;2010;9308
+54;Alagoas;2011;9813
+55;Alagoas;2012;8624
+56;Alagoas;2013;6587
+57;Alagoas;2014;5902
+58;Alagoas;2015;4974
+59;Alagoas;2016;4534
+60;Alagoas;2017;4175
+61;Alagoas;2018;4131
+62;Amapá;1994;0
+63;Amapá;1995;185
+64;Amapá;1996;110
+65;Amapá;1997;183
+66;Amapá;1998;199
+67;Amapá;1999;236
+68;Amapá;2000;217
+69;Amapá;2001;308
+70;Amapá;2002;293
+71;Amapá;2003;235
+72;Amapá;2004;326
+73;Amapá;2005;393
+74;Amapá;2006;494
+75;Amapá;2007;736
+76;Amapá;2008;642
+77;Amapá;2009;738
+78;Amapá;2010;673
+79;Amapá;2011;830
+80;Amapá;2012;951
+81;Amapá;2013;1057
+82;Amapá;2014;796
+83;Amapá;2015;612
+84;Amapá;2016;661
+85;Amapá;2017;523
+86;Amapá;2018;591
+87;Amazonas;1988;5717
+88;Amazonas;1989;5029
+89;Amazonas;1990;5086
+90;Amazonas;1991;3579
+91;Amazonas;1992;1222
+92;Amazonas;1993;1597
+93;Amazonas;1994;1349
+94;Amazonas;1995;1842
+95;Amazonas;1996;1988
+96;Amazonas;1997;2156
+97;Amazonas;1998;2426
+98;Amazonas;1999;2331
+99;Amazonas;2000;2481
+100;Amazonas;2001;2537
+101;Amazonas;2002;3086
+102;Amazonas;2003;3532
+103;Amazonas;2004;4328
+104;Amazonas;2005;5351
+105;Amazonas;2006;6347
+106;Amazonas;2007;8536
+107;Amazonas;2008;9484
+108;Amazonas;2009;8849
+109;Amazonas;2010;8591
+110;Amazonas;2011;9754
+111;Amazonas;2012;9186
+112;Amazonas;2013;8750
+113;Amazonas;2014;8923
+114;Amazonas;2015;8495
+115;Amazonas;2016;7293
+116;Amazonas;2017;6974
+117;Amazonas;2018;7051
+118;Bahia;1988;19285
+119;Bahia;1989;9955
+120;Bahia;1990;13379
+121;Bahia;1991;11451
+122;Bahia;1992;9341
+123;Bahia;1993;7059
+124;Bahia;1994;6290
+125;Bahia;1995;6112
+126;Bahia;1996;7548
+127;Bahia;1997;10321
+128;Bahia;1998;8829
+129;Bahia;1999;7586
+130;Bahia;2000;10047
+131;Bahia;2001;8933
+132;Bahia;2002;12083
+133;Bahia;2003;12993
+134;Bahia;2004;15209
+135;Bahia;2005;16269
+136;Bahia;2006;16802
+137;Bahia;2007;23479
+138;Bahia;2008;26142
+139;Bahia;2009;26483
+140;Bahia;2010;24567
+141;Bahia;2011;24269
+142;Bahia;2012;23443
+143;Bahia;2013;22000
+144;Bahia;2014;21724
+145;Bahia;2015;18267
+146;Bahia;2016;17132
+147;Bahia;2017;16926
+148;Bahia;2018;16937
+149;Ceará;1988;6822
+150;Ceará;1989;6632
+151;Ceará;1990;5670
+152;Ceará;1991;4944
+153;Ceará;1992;3104
+154;Ceará;1993;2720
+155;Ceará;1994;1249
+156;Ceará;1995;4252
+157;Ceará;1996;2883
+158;Ceará;1997;3193
+159;Ceará;1998;3243
+160;Ceará;1999;3623
+161;Ceará;2000;3589
+162;Ceará;2001;3365
+163;Ceará;2002;3744
+164;Ceará;2003;4128
+165;Ceará;2004;5591
+166;Ceará;2005;5957
+167;Ceará;2006;5965
+168;Ceará;2007;8333
+169;Ceará;2008;10153
+170;Ceará;2009;11936
+171;Ceará;2010;12270
+172;Ceará;2011;12368
+173;Ceará;2012;13138
+174;Ceará;2013;13601
+175;Ceará;2014;13434
+176;Ceará;2015;11885
+177;Ceará;2016;11876
+178;Ceará;2017;11099
+179;Ceará;2018;11401
+180;Distrito Federal;1988;4683
+181;Distrito Federal;1989;4673
+182;Distrito Federal;1990;3632
+183;Distrito Federal;1991;3244
+184;Distrito Federal;1992;3435
+185;Distrito Federal;1993;3599
+186;Distrito Federal;1994;1297
+187;Distrito Federal;1995;2209
+188;Distrito Federal;1996;2946
+189;Distrito Federal;1997;2891
+190;Distrito Federal;1998;2944
+191;Distrito Federal;1999;3028
+192;Distrito Federal;2000;3420
+193;Distrito Federal;2001;3643
+194;Distrito Federal;2002;4489
+195;Distrito Federal;2003;4407
+196;Distrito Federal;2004;5654
+197;Distrito Federal;2005;6076
+198;Distrito Federal;2006;5877
+199;Distrito Federal;2007;7659
+200;Distrito Federal;2008;9351
+201;Distrito Federal;2009;9344
+202;Distrito Federal;2010;8430
+203;Distrito Federal;2011;8436
+204;Distrito Federal;2012;8678
+205;Distrito Federal;2013;9021
+206;Distrito Federal;2014;8778
+207;Distrito Federal;2015;7494
+208;Distrito Federal;2016;7535
+209;Distrito Federal;2017;7140
+210;Distrito Federal;2018;8058
+211;Espírito Santo;1988;12542
+212;Espírito Santo;1989;9532
+213;Espírito Santo;1990;6773
+214;Espírito Santo;1991;7383
+215;Espírito Santo;1992;6705
+216;Espírito Santo;1993;5701
+217;Espírito Santo;1994;5583
+218;Espírito Santo;1995;6464
+219;Espírito Santo;1996;6375
+220;Espírito Santo;1997;6200
+221;Espírito Santo;1998;5925
+222;Espírito Santo;1999;5825
+223;Espírito Santo;2000;6481
+224;Espírito Santo;2001;7446
+225;Espírito Santo;2002;8553
+226;Espírito Santo;2003;8456
+227;Espírito Santo;2004;9700
+228;Espírito Santo;2005;11107
+229;Espírito Santo;2006;11970
+230;Espírito Santo;2007;15868
+231;Espírito Santo;2008;17427
+232;Espírito Santo;2009;15121
+233;Espírito Santo;2010;13730
+234;Espírito Santo;2011;13809
+235;Espírito Santo;2012;13423
+236;Espírito Santo;2013;13776
+237;Espírito Santo;2014;14821
+238;Espírito Santo;2015;13336
+239;Espírito Santo;2016;11844
+240;Espírito Santo;2017;11535
+241;Espírito Santo;2018;12099
+242;Goiás;1988;18629
+243;Goiás;1989;16037
+244;Goiás;1990;13789
+245;Goiás;1991;12487
+246;Goiás;1992;3704
+247;Goiás;1993;3772
+248;Goiás;1994;4450
+249;Goiás;1995;5134
+250;Goiás;1996;5587
+251;Goiás;1997;6113
+252;Goiás;1998;6227
+253;Goiás;1999;6601
+254;Goiás;2000;7107
+255;Goiás;2001;7724
+256;Goiás;2002;8834
+257;Goiás;2003;10110
+258;Goiás;2004;11422
+259;Goiás;2005;12295
+260;Goiás;2006;13179
+261;Goiás;2007;16200
+262;Goiás;2008;17840
+263;Goiás;2009;17123
+264;Goiás;2010;15736
+265;Goiás;2011;15650
+266;Goiás;2012;16084
+267;Goiás;2013;17262
+268;Goiás;2014;17263
+269;Goiás;2015;15663
+270;Goiás;2016;15395
+271;Goiás;2017;15355
+272;Goiás;2018;16076
+273;Maranhão;1988;6034
+274;Maranhão;1989;5408
+275;Maranhão;1990;4051
+276;Maranhão;1991;2791
+277;Maranhão;1992;1004
+278;Maranhão;1993;414
+279;Maranhão;1994;57
+280;Maranhão;1995;53
+281;Maranhão;1996;648
+282;Maranhão;1997;766
+283;Maranhão;1998;868
+284;Maranhão;1999;902
+285;Maranhão;2000;1026
+286;Maranhão;2001;1101
+287;Maranhão;2002;1395
+288;Maranhão;2003;1797
+289;Maranhão;2004;2064
+290;Maranhão;2005;3044
+291;Maranhão;2006;2683
+292;Maranhão;2007;3958
+293;Maranhão;2008;5810
+294;Maranhão;2009;5957
+295;Maranhão;2010;6136
+296;Maranhão;2011;6402
+297;Maranhão;2012;5358
+298;Maranhão;2013;5195
+299;Maranhão;2014;5552
+300;Maranhão;2015;4765
+301;Maranhão;2016;4472
+302;Maranhão;2017;3993
+303;Maranhão;2018;3661
+304;Mato Grosso;1988;3068
+305;Mato Grosso;1989;2311
+306;Mato Grosso;1990;1815
+307;Mato Grosso;1991;1515
+308;Mato Grosso;1992;810
+309;Mato Grosso;1993;297
+310;Mato Grosso;1994;741
+311;Mato Grosso;1995;840
+312;Mato Grosso;1996;2638
+313;Mato Grosso;1997;3194
+314;Mato Grosso;1998;3531
+315;Mato Grosso;1999;3656
+316;Mato Grosso;2000;4105
+317;Mato Grosso;2001;4252
+318;Mato Grosso;2002;4933
+319;Mato Grosso;2003;5785
+320;Mato Grosso;2004;6881
+321;Mato Grosso;2005;7080
+322;Mato Grosso;2006;7616
+323;Mato Grosso;2007;11589
+324;Mato Grosso;2008;13832
+325;Mato Grosso;2009;14130
+326;Mato Grosso;2010;13454
+327;Mato Grosso;2011;13533
+328;Mato Grosso;2012;13372
+329;Mato Grosso;2013;14015
+330;Mato Grosso;2014;13895
+331;Mato Grosso;2015;12435
+332;Mato Grosso;2016;11944
+333;Mato Grosso;2017;12149
+334;Mato Grosso;2018;12349
+335;Mato Grosso do Sul;1988;5126
+336;Mato Grosso do Sul;1989;3888
+337;Mato Grosso do Sul;1990;2978
+338;Mato Grosso do Sul;1991;3182
+339;Mato Grosso do Sul;1992;2721
+340;Mato Grosso do Sul;1993;2548
+341;Mato Grosso do Sul;1994;2396
+342;Mato Grosso do Sul;1995;2490
+343;Mato Grosso do Sul;1996;2750
+344;Mato Grosso do Sul;1997;3218
+345;Mato Grosso do Sul;1998;3089
+346;Mato Grosso do Sul;1999;3410
+347;Mato Grosso do Sul;2000;4088
+348;Mato Grosso do Sul;2001;4017
+349;Mato Grosso do Sul;2002;4832
+350;Mato Grosso do Sul;2003;5091
+351;Mato Grosso do Sul;2004;6069
+352;Mato Grosso do Sul;2005;6320
+353;Mato Grosso do Sul;2006;6614
+354;Mato Grosso do Sul;2007;9687
+355;Mato Grosso do Sul;2008;11416
+356;Mato Grosso do Sul;2009;10722
+357;Mato Grosso do Sul;2010;10102
+358;Mato Grosso do Sul;2011;10706
+359;Mato Grosso do Sul;2012;11416
+360;Mato Grosso do Sul;2013;11495
+361;Mato Grosso do Sul;2014;10973
+362;Mato Grosso do Sul;2015;9930
+363;Mato Grosso do Sul;2016;9649
+364;Mato Grosso do Sul;2017;9743
+365;Mato Grosso do Sul;2018;10171
+366;Minas Gerais;1988;95802
+367;Minas Gerais;1989;89049
+368;Minas Gerais;1990;67619
+369;Minas Gerais;1991;65891
+370;Minas Gerais;1992;57695
+371;Minas Gerais;1993;53820
+372;Minas Gerais;1994;52111
+373;Minas Gerais;1995;56249
+374;Minas Gerais;1996;49019
+375;Minas Gerais;1997;51494
+376;Minas Gerais;1998;48643
+377;Minas Gerais;1999;47712
+378;Minas Gerais;2000;41211
+379;Minas Gerais;2001;37423
+380;Minas Gerais;2002;38937
+381;Minas Gerais;2003;41528
+382;Minas Gerais;2004;48913
+383;Minas Gerais;2005;52928
+384;Minas Gerais;2006;52603
+385;Minas Gerais;2007;68835
+386;Minas Gerais;2008;78265
+387;Minas Gerais;2009;77794
+388;Minas Gerais;2010;75407
+389;Minas Gerais;2011;77899
+390;Minas Gerais;2012;77714
+391;Minas Gerais;2013;77743
+392;Minas Gerais;2014;74186
+393;Minas Gerais;2015;63176
+394;Minas Gerais;2016;59334
+395;Minas Gerais;2017;56819
+396;Minas Gerais;2018;59553
+397;Paraná;1988;70924
+398;Paraná;1989;60356
+399;Paraná;1990;50336
+400;Paraná;1991;44172
+401;Paraná;1992;35944
+402;Paraná;1993;32357
+403;Paraná;1994;21814
+404;Paraná;1995;19774
+405;Paraná;1996;31459
+406;Paraná;1997;30866
+407;Paraná;1998;31046
+408;Paraná;1999;27445
+409;Paraná;2000;25571
+410;Paraná;2001;23231
+411;Paraná;2002;27710
+412;Paraná;2003;29180
+413;Paraná;2004;33661
+414;Paraná;2005;36688
+415;Paraná;2006;37574
+416;Paraná;2007;51470
+417;Paraná;2008;57529
+418;Paraná;2009;54287
+419;Paraná;2010;52075
+420;Paraná;2011;50824
+421;Paraná;2012;50009
+422;Paraná;2013;52574
+423;Paraná;2014;52977
+424;Paraná;2015;47866
+425;Paraná;2016;43549
+426;Paraná;2017;42223
+427;Paraná;2018;45119
+428;Paraíba;1988;2595
+429;Paraíba;1989;2019
+430;Paraíba;1990;1829
+431;Paraíba;1991;1404
+432;Paraíba;1992;1240
+433;Paraíba;1993;207
+434;Paraíba;1994;903
+435;Paraíba;1995;898
+436;Paraíba;1996;1235
+437;Paraíba;1997;1500
+438;Paraíba;1998;1340
+439;Paraíba;1999;1133
+440;Paraíba;2000;1480
+441;Paraíba;2001;1636
+442;Paraíba;2002;1789
+443;Paraíba;2003;1898
+444;Paraíba;2004;2072
+445;Paraíba;2005;2551
+446;Paraíba;2006;2643
+447;Paraíba;2007;3884
+448;Paraíba;2008;4277
+449;Paraíba;2009;4914
+450;Paraíba;2010;5026
+451;Paraíba;2011;5284
+452;Paraíba;2012;5079
+453;Paraíba;2013;5105
+454;Paraíba;2014;5460
+455;Paraíba;2015;4295
+456;Paraíba;2016;4155
+457;Paraíba;2017;4078
+458;Paraíba;2018;3976
+459;Pará;1988;12668
+460;Pará;1989;11947
+461;Pará;1990;4030
+462;Pará;1991;7454
+463;Pará;1992;4611
+464;Pará;1993;1715
+465;Pará;1994;2379
+466;Pará;1995;2211
+467;Pará;1996;2328
+468;Pará;1997;3312
+469;Pará;1998;3860
+470;Pará;1999;4133
+471;Pará;2000;4323
+472;Pará;2001;5070
+473;Pará;2002;6425
+474;Pará;2003;6744
+475;Pará;2004;8641
+476;Pará;2005;8825
+477;Pará;2006;9347
+478;Pará;2007;11532
+479;Pará;2008;11926
+480;Pará;2009;12231
+481;Pará;2010;11607
+482;Pará;2011;11534
+483;Pará;2012;12530
+484;Pará;2013;12337
+485;Pará;2014;12927
+486;Pará;2015;11337
+487;Pará;2016;9659
+488;Pará;2017;9497
+489;Pará;2018;9831
+490;Pernambuco;1988;18448
+491;Pernambuco;1989;14804
+492;Pernambuco;1990;17461
+493;Pernambuco;1991;11093
+494;Pernambuco;1992;9464
+495;Pernambuco;1993;2269
+496;Pernambuco;1994;5106
+497;Pernambuco;1995;7009
+498;Pernambuco;1996;7055
+499;Pernambuco;1997;7087
+500;Pernambuco;1998;6111
+501;Pernambuco;1999;6055
+502;Pernambuco;2000;5598
+503;Pernambuco;2001;5914
+504;Pernambuco;2002;7066
+505;Pernambuco;2003;7487
+506;Pernambuco;2004;9121
+507;Pernambuco;2005;10224
+508;Pernambuco;2006;11198
+509;Pernambuco;2007;14471
+510;Pernambuco;2008;16841
+511;Pernambuco;2009;18629
+512;Pernambuco;2010;20285
+513;Pernambuco;2011;20874
+514;Pernambuco;2012;20505
+515;Pernambuco;2013;20890
+516;Pernambuco;2014;20618
+517;Pernambuco;2015;16908
+518;Pernambuco;2016;15831
+519;Pernambuco;2017;14892
+520;Pernambuco;2018;14789
+521;Piauí;1988;841
+522;Piauí;1989;622
+523;Piauí;1990;615
+524;Piauí;1991;453
+525;Piauí;1992;570
+526;Piauí;1993;510
+527;Piauí;1994;490
+528;Piauí;1995;328
+529;Piauí;1996;429
+530;Piauí;1997;462
+531;Piauí;1998;488
+532;Piauí;1999;544
+533;Piauí;2000;566
+534;Piauí;2001;507
+535;Piauí;2002;622
+536;Piauí;2003;739
+537;Piauí;2004;892
+538;Piauí;2005;991
+539;Piauí;2006;1069
+540;Piauí;2007;1711
+541;Piauí;2008;2612
+542;Piauí;2009;3118
+543;Piauí;2010;3337
+544;Piauí;2011;3625
+545;Piauí;2012;4012
+546;Piauí;2013;4445
+547;Piauí;2014;4467
+548;Piauí;2015;3982
+549;Piauí;2016;3954
+550;Piauí;2017;3412
+551;Piauí;2018;3411
+552;Rio Grande do Norte;1988;4079
+553;Rio Grande do Norte;1989;3285
+554;Rio Grande do Norte;1990;2302
+555;Rio Grande do Norte;1991;2231
+556;Rio Grande do Norte;1992;914
+557;Rio Grande do Norte;1993;911
+558;Rio Grande do Norte;1994;813
+559;Rio Grande do Norte;1995;1042
+560;Rio Grande do Norte;1996;1463
+561;Rio Grande do Norte;1997;1450
+562;Rio Grande do Norte;1998;1695
+563;Rio Grande do Norte;1999;1649
+564;Rio Grande do Norte;2000;1513
+565;Rio Grande do Norte;2001;1856
+566;Rio Grande do Norte;2002;2245
+567;Rio Grande do Norte;2003;2560
+568;Rio Grande do Norte;2004;3610
+569;Rio Grande do Norte;2005;4055
+570;Rio Grande do Norte;2006;4899
+571;Rio Grande do Norte;2007;6449
+572;Rio Grande do Norte;2008;8456
+573;Rio Grande do Norte;2009;8923
+574;Rio Grande do Norte;2010;7198
+575;Rio Grande do Norte;2011;7480
+576;Rio Grande do Norte;2012;7042
+577;Rio Grande do Norte;2013;6889
+578;Rio Grande do Norte;2014;7156
+579;Rio Grande do Norte;2015;6920
+580;Rio Grande do Norte;2016;5624
+581;Rio Grande do Norte;2017;4916
+582;Rio Grande do Norte;2018;5167
+583;Rio Grande do Sul;1988;99308
+584;Rio Grande do Sul;1989;107701
+585;Rio Grande do Sul;1990;79841
+586;Rio Grande do Sul;1991;58253
+587;Rio Grande do Sul;1992;41769
+588;Rio Grande do Sul;1993;18435
+589;Rio Grande do Sul;1994;13705
+590;Rio Grande do Sul;1995;0
+591;Rio Grande do Sul;1996;39165
+592;Rio Grande do Sul;1997;38735
+593;Rio Grande do Sul;1998;36960
+594;Rio Grande do Sul;1999;35687
+595;Rio Grande do Sul;2000;38008
+596;Rio Grande do Sul;2001;35292
+597;Rio Grande do Sul;2002;39634
+598;Rio Grande do Sul;2003;40135
+599;Rio Grande do Sul;2004;44197
+600;Rio Grande do Sul;2005;44348
+601;Rio Grande do Sul;2006;43798
+602;Rio Grande do Sul;2007;52884
+603;Rio Grande do Sul;2008;63396
+604;Rio Grande do Sul;2009;61945
+605;Rio Grande do Sul;2010;58657
+606;Rio Grande do Sul;2011;57915
+607;Rio Grande do Sul;2012;55397
+608;Rio Grande do Sul;2013;59950
+609;Rio Grande do Sul;2014;60020
+610;Rio Grande do Sul;2015;52272
+611;Rio Grande do Sul;2016;50586
+612;Rio Grande do Sul;2017;47152
+613;Rio Grande do Sul;2018;48559
+614;Rio de Janeiro;1988;96548
+615;Rio de Janeiro;1989;77241
+616;Rio de Janeiro;1990;57003
+617;Rio de Janeiro;1991;37583
+618;Rio de Janeiro;1992;20863
+619;Rio de Janeiro;1993;7057
+620;Rio de Janeiro;1994;13920
+621;Rio de Janeiro;1995;16172
+622;Rio de Janeiro;1996;26858
+623;Rio de Janeiro;1997;25382
+624;Rio de Janeiro;1998;24738
+625;Rio de Janeiro;1999;23846
+626;Rio de Janeiro;2000;22916
+627;Rio de Janeiro;2001;19313
+628;Rio de Janeiro;2002;26119
+629;Rio de Janeiro;2003;26414
+630;Rio de Janeiro;2004;32225
+631;Rio de Janeiro;2005;35059
+632;Rio de Janeiro;2006;36439
+633;Rio de Janeiro;2007;47930
+634;Rio de Janeiro;2008;53407
+635;Rio de Janeiro;2009;50228
+636;Rio de Janeiro;2010;48365
+637;Rio de Janeiro;2011;49310
+638;Rio de Janeiro;2012;52192
+639;Rio de Janeiro;2013;51471
+640;Rio de Janeiro;2014;52186
+641;Rio de Janeiro;2015;47381
+642;Rio de Janeiro;2016;42192
+643;Rio de Janeiro;2017;37863
+644;Rio de Janeiro;2018;37526
+645;Rondônia;1988;679
+646;Rondônia;1989;615
+647;Rondônia;1990;377
+648;Rondônia;1991;401
+649;Rondônia;1992;255
+650;Rondônia;1993;375
+651;Rondônia;1994;0
+652;Rondônia;1995;451
+653;Rondônia;1996;907
+654;Rondônia;1997;1083
+655;Rondônia;1998;1343
+656;Rondônia;1999;1449
+657;Rondônia;2000;1839
+658;Rondônia;2001;1853
+659;Rondônia;2002;1996
+660;Rondônia;2003;2080
+661;Rondônia;2004;2377
+662;Rondônia;2005;2526
+663;Rondônia;2006;2394
+664;Rondônia;2007;3928
+665;Rondônia;2008;4719
+666;Rondônia;2009;5101
+667;Rondônia;2010;5375
+668;Rondônia;2011;5982
+669;Rondônia;2012;6149
+670;Rondônia;2013;6298
+671;Rondônia;2014;5611
+672;Rondônia;2015;4803
+673;Rondônia;2016;4605
+674;Rondônia;2017;4225
+675;Rondônia;2018;4517
+676;Roraima;1997;57
+677;Roraima;1998;73
+678;Roraima;1999;80
+679;Roraima;2000;94
+680;Roraima;2001;95
+681;Roraima;2002;111
+682;Roraima;2003;117
+683;Roraima;2004;119
+684;Roraima;2005;107
+685;Roraima;2006;129
+686;Roraima;2007;429
+687;Roraima;2008;535
+688;Roraima;2009;546
+689;Roraima;2010;518
+690;Roraima;2011;631
+691;Roraima;2012;605
+692;Roraima;2013;747
+693;Roraima;2014;833
+694;Roraima;2015;613
+695;Roraima;2016;759
+696;Roraima;2017;885
+697;Roraima;2018;943
+698;Santa Catarina;1988;53416
+699;Santa Catarina;1989;50092
+700;Santa Catarina;1990;39686
+701;Santa Catarina;1991;30999
+702;Santa Catarina;1992;29564
+703;Santa Catarina;1993;26276
+704;Santa Catarina;1994;25809
+705;Santa Catarina;1995;26018
+706;Santa Catarina;1996;21671
+707;Santa Catarina;1997;21582
+708;Santa Catarina;1998;23267
+709;Santa Catarina;1999;23474
+710;Santa Catarina;2000;25450
+711;Santa Catarina;2001;25888
+712;Santa Catarina;2002;27663
+713;Santa Catarina;2003;26347
+714;Santa Catarina;2004;30379
+715;Santa Catarina;2005;32666
+716;Santa Catarina;2006;30902
+717;Santa Catarina;2007;41921
+718;Santa Catarina;2008;51297
+719;Santa Catarina;2009;50209
+720;Santa Catarina;2010;47754
+721;Santa Catarina;2011;46758
+722;Santa Catarina;2012;45174
+723;Santa Catarina;2013;46748
+724;Santa Catarina;2014;46004
+725;Santa Catarina;2015;38748
+726;Santa Catarina;2016;37058
+727;Santa Catarina;2017;36804
+728;Santa Catarina;2018;38803
+729;Sergipe;1988;4151
+730;Sergipe;1989;3506
+731;Sergipe;1990;2816
+732;Sergipe;1991;3179
+733;Sergipe;1992;2620
+734;Sergipe;1993;1522
+735;Sergipe;1994;1045
+736;Sergipe;1995;1635
+737;Sergipe;1996;1250
+738;Sergipe;1997;1284
+739;Sergipe;1998;1358
+740;Sergipe;1999;1204
+741;Sergipe;2000;1158
+742;Sergipe;2001;1147
+743;Sergipe;2002;1614
+744;Sergipe;2003;1506
+745;Sergipe;2004;1894
+746;Sergipe;2005;2182
+747;Sergipe;2006;2288
+748;Sergipe;2007;2889
+749;Sergipe;2008;3082
+750;Sergipe;2009;3122
+751;Sergipe;2010;3158
+752;Sergipe;2011;3596
+753;Sergipe;2012;3387
+754;Sergipe;2013;3315
+755;Sergipe;2014;3223
+756;Sergipe;2015;2819
+757;Sergipe;2016;2728
+758;Sergipe;2017;2591
+759;Sergipe;2018;2407
+760;São Paulo;1988;446858
+761;São Paulo;1989;400720
+762;São Paulo;1990;309539
+763;São Paulo;1991;316281
+764;São Paulo;1992;293006
+765;São Paulo;1993;237944
+766;São Paulo;1994;225580
+767;São Paulo;1995;260171
+768;São Paulo;1996;175954
+769;São Paulo;1997;194862
+770;São Paulo;1998;192193
+771;São Paulo;1999;172662
+772;São Paulo;2000;147567
+773;São Paulo;2001;133936
+774;São Paulo;2002;154767
+775;São Paulo;2003;151121
+776;São Paulo;2004;173412
+777;São Paulo;2005;185723
+778;São Paulo;2006;191426
+779;São Paulo;2007;234743
+780;São Paulo;2008;265975
+781;São Paulo;2009;249289
+782;São Paulo;2010;244714
+783;São Paulo;2011;250306
+784;São Paulo;2012;247668
+785;São Paulo;2013;251725
+786;São Paulo;2014;241829
+787;São Paulo;2015;210980
+788;São Paulo;2016;200759
+789;São Paulo;2017;190189
+790;São Paulo;2018;197330
+791;Tocantins;1994;0
+792;Tocantins;1995;205
+793;Tocantins;1996;319
+794;Tocantins;1997;341
+795;Tocantins;1998;474
+796;Tocantins;1999;651
+797;Tocantins;2000;704
+798;Tocantins;2001;940
+799;Tocantins;2002;783
+800;Tocantins;2003;913
+801;Tocantins;2004;1931
+802;Tocantins;2005;1808
+803;Tocantins;2006;1343
+804;Tocantins;2007;2123
+805;Tocantins;2008;2165
+806;Tocantins;2009;2461
+807;Tocantins;2010;1887
+808;Tocantins;2011;1870
+809;Tocantins;2012;1700
+810;Tocantins;2013;1489
+811;Tocantins;2014;1549
+812;Tocantins;2015;1408
+813;Tocantins;2016;1525
+814;Tocantins;2017;1486
+815;Tocantins;2018;1633
