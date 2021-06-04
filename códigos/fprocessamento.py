@@ -46,3 +46,20 @@ def calcularAnoMes(dtAcid):
         return anoMesStr
     else:
         return dtAcid
+    
+def recortarCNAE(cnaeStr):
+    strSeparada = cnaeStr.rsplit(":")
+    if len(strSeparada) > 1:
+        return strSeparada[0]
+    else:
+        return cnaeStr
+    
+
+def calcularSomaAnoMes(dtStr):
+    try: 
+        df_soma = df_result.query("anoMes == \""+dtStr+"\"" )
+        total= df_soma['qtde'].sum()    
+        return total
+    except (RuntimeError, TypeError, NameError, ValueError):
+        return np.nan
+  
